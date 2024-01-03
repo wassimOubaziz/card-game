@@ -41,7 +41,7 @@ To play the Game Flip Cards, simply open the `index.html` file in your browser, 
 
 ## 🌐 Live Demo
 
-Check out the live demo of Game Flip Cards [here](#your-live-demo-link).
+Check out the live demo of Game Flip Cards [here](#https://wassimoubaziz.github.io/card-game/).
 
 ## 🤝 Contributions
 
@@ -53,6 +53,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Have questions or suggestions? Reach out to [Your Email] or open an issue.
+Have questions or suggestions? Reach out to [wassimdjaafar5@gmail.com] or open an issue.
 
 Enjoy the card-matching challenge! 🃏
