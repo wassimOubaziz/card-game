@@ -41,7 +41,7 @@ To play the Game Flip Cards, simply open the `index.html` file in your browser, 
 
 ## 🌐 Live Demo
 
-Check out the live demo of Game Flip Cards [here](#https://wassimoubaziz.github.io/card-game/).
+Check out the live demo of Game Flip Cards [here](https://wassimoubaziz.github.io/card-game/).
 
 ## 🤝 Contributions
 
